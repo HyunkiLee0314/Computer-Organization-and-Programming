@@ -13,4 +13,6 @@ and the basics of Parallel and Distributed programing using Raspberry PI multico
 architecture and shared memory parallelism using OpenMP and C language.  
   
 Description by Dr. Awad Mussa (amussa@cs.gsu.edu)  
+***
+There was a project using ARM assembler in Raspberry Pi  
 Hyunki Lee
